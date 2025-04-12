@@ -1,0 +1,13 @@
+body
+{
+    background-image: url(bgimg.jpeg);
+    background-repeat: no-repeat;
+    
+    width: fit-content;
+}
+
+h2
+{
+    color: aliceblue;
+}
+
